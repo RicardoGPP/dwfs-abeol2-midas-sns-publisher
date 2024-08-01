@@ -1,0 +1,6 @@
+const AWS_ACCOUNT_ID = '590183686355';
+const AWS_TOPIC = 'ScrapperSNS.fifo';
+const AWS_MESSAGE_GROUP_ID = 'ScrapperSNS';
+const AWS_REGION = 'us-east-1';
+
+export { AWS_ACCOUNT_ID, AWS_TOPIC, AWS_MESSAGE_GROUP_ID, AWS_REGION };
